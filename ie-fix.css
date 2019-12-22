@@ -1,0 +1,32 @@
+/*** ie-fix.css ***/
+/*** Code taken from Chapter 14 within the CSS3 Visual QuickStart Guide 6th Edition ***/
+
+/*** color & background properties ***/
+
+header h1 {
+  color: rgb(255, 153, 153);
+}
+
+/*** box properties ***/
+
+article,
+aside,
+canvas,
+details,
+dialog,
+eventsource,
+figure,
+footer,
+header,
+hgroup,
+mark,
+menu,
+meter,
+nav,
+output,
+progress,
+section,
+time,
+video {
+  display: block;
+}
